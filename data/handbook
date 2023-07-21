@@ -1,44 +1,44 @@
-What is the medical expenses entitlement for Job Grade 1 - 2? No job grade 1 - 2 medical expenses entitlement specified in the employee handbook.",
-
-    "What is the job grades in this company? Job grade in this company starts from 3 - 9.",
-What is the medical expenses entitlement for Job Grade 3? The medical expenses entitlement for Job Grade 8 - 9 is RM300.00 per year.",
-
-    "What is the medical expenses entitlement for Job Grade 8 - 9? The medical expenses entitlement for Job Grade 8 - 9 is RM600.00 per year.",
-
-    "How much is the medical expenses entitlement for Job Grade 6 - 7? The medical expenses entitlement for Job Grade 6 - 7 is RM500.00 per year.",
-
-    "What is the medical expenses entitlement for Job Grade 4 - 5? The medical expenses entitlement for Job Grade 4 - 5 is RM400.00 per year.",
-
-    "How much medical expenses entitlement is provided for Job Grade 3? The medical expenses entitlement for Job Grade 3 is RM300.00 per year.",
-
-    "What does the medical expenses entitlement include? The medical expenses entitlement includes all approved medical expenses for visitations to panel and non-panel clinics and panel doctor referred specialists.",
-
-    "What happens if medical expenses exceed the entitlement limit? Any medical expenses that exceed your entitlement limit or are not approved by the Company shall be paid by you.",
-
-    "How are medical expenses paid if the Company is involved? In the case where the Company pays your medical expenses directly to the medical establishments, the said amount shall be deducted from your pay.",
-
-    "What is the combined maximum reimbursement fee for dental and optical benefits? The combined maximum reimbursement fee for dental and optical benefits is RM250.00 per year.",
-
-    "What does the dental benefit exclude? Dental benefit excludes treatment for beautification purposes and dental-related products.",
-
-    "What does the optical benefit include and exclude? Optical benefit includes eye examination and prescription glasses/contact lenses but excludes any non-prescription optical related products such as sunglasses.",
-
-    "Can you explain the entitlement for dental and optical benefits? If you seek medical consultation and treatment from a registered dental doctor or visit a registered Optometrist/Optician, you are entitled to a combined maximum reimbursement fee of RM250.00 per year. Dental benefit excludes treatment for beautification purposes and dental-related products. Optical benefit includes eye examination and prescription glasses/contact lenses but excludes any non-prescription optical related products such as sunglasses.",
-
-    "What should I do if my medical expenses exceed the entitlement limit? If your medical expenses exceed the entitlement limit or are not approved by the Company, you will be responsible for paying the excess amount.",
-
-    "Are there any restrictions on the type of clinics I can visit for medical expenses entitlement? The medical expenses entitlement includes all approved medical expenses for visitations to both panel and non-panel clinics and panel doctor referred specialists.",
-
-    "How often can I claim my medical expenses entitlement? The medical expenses entitlement is provided on a yearly basis, and you can claim it once per year.",
-
-    "Can you provide a breakdown of the medical expenses entitlement for different job grades? Certainly! Here's a breakdown of the medical expenses entitlement per year for different job grades: Job Grade 8 - 9: RM600.00, Job Grade 6 - 7: RM500.00, Job Grade 4 - 5: RM400.00, Job Grade 3: RM300.00.",
-
-    "Is there a waiting period before I can claim dental and optical benefits? There is no specific waiting period for claiming dental and optical benefits. Once you are eligible, you can claim up to the maximum reimbursement fee of RM250.00 per year.",
-
-    "Can I use the dental benefit for cosmetic dental procedures? No, the dental benefit does not cover treatment for beautification purposes or any cosmetic dental procedures. It is meant for medical consultation and necessary dental treatments.",
-
-    "How are the dental and optical benefits reimbursed? You can claim the dental and optical benefits by providing receipts and relevant documentation for the expenses incurred. The maximum reimbursement fee of RM250.00 per year will be processed based on the eligible expenses.",
-
-    "Are prescription sunglasses covered under the optical benefit? No, non-prescription optical related products such as sunglasses are not covered under the optical benefit. Only eye examination and prescription glasses/contact lenses are included.",
-
-    "Is there a limit on the number of panel doctor visits I can make in a year? There is no specific limit on the number of panel doctor visits you can make in a year. The medical expenses entitlement covers all approved medical expenses for visits to panel and non-panel clinics, subject to the respective entitlements for your job grade."
+user: What is the job grades in this company? 
+hr bot: Job grade in this company starts from 3 - 9.
+user: What is the medical expenses entitlement for Job Grade 3? 
+hr bot: The medical expenses entitlement for Job Grade 8 - 9 is RM300.00 per year.
+user: What is the medical expenses entitlement for Job Grade 8 - 9? 
+hr bot: The medical expenses entitlement for Job Grade 8 - 9 is RM600.00 per year.
+user: How much is the medical expenses entitlement for Job Grade 6 - 7? 
+hr bot: The medical expenses entitlement for Job Grade 6 - 7 is RM500.00 per year.
+user: What is the medical expenses entitlement for Job Grade 4 - 5? 
+hr bot: The medical expenses entitlement for Job Grade 4 - 5 is RM400.00 per year.
+user: How much medical expenses entitlement is provided for Job Grade 3? 
+hr bot: The medical expenses entitlement for Job Grade 3 is RM300.00 per year.
+user: What does the medical expenses entitlement include? 
+hr bot: The medical expenses entitlement includes all approved medical expenses for visitations to panel and non-panel clinics and panel doctor referred specialists.
+user: What happens if medical expenses exceed the entitlement limit? 
+hr bot: Any medical expenses that exceed your entitlement limit or are not approved by the Company shall be paid by you.
+user: How are medical expenses paid if the Company is involved? 
+hr bot: In the case where the Company pays your medical expenses directly to the medical establishments, the said amount shall be deducted from your pay.
+user: What is the combined maximum reimbursement fee for dental and optical benefits? 
+hr bot: The combined maximum reimbursement fee for dental and optical benefits is RM250.00 per year.
+user: What does the dental benefit exclude? 
+hr bot: Dental benefit excludes treatment for beautification purposes and dental-related products.
+user: What does the optical benefit include and exclude? 
+hr bot: Optical benefit includes eye examination and prescription glasses/contact lenses but excludes any non-prescription optical related products such as sunglasses.
+user: Can you explain the entitlement for dental and optical benefits? 
+hr bot: If you seek medical consultation and treatment from a registered dental doctor or visit a registered Optometrist/Optician, you are entitled to a combined maximum reimbursement fee of RM250.00 per year. Dental benefit excludes treatment for beautification purposes and dental-related products. Optical benefit includes eye examination and prescription glasses/contact lenses but excludes any non-prescription optical related products such as sunglasses.
+user: What should I do if my medical expenses exceed the entitlement limit? 
+hr bot: If your medical expenses exceed the entitlement limit or are not approved by the Company, you will be responsible for paying the excess amount.",
+user: Are there any restrictions on the type of clinics I can visit for medical expenses entitlement? 
+hr bot: The medical expenses entitlement includes all approved medical expenses for visitations to both panel and non-panel clinics and panel doctor referred specialists.
+user: How often can I claim my medical expenses entitlement? 
+hr bot: The medical expenses entitlement is provided on a yearly basis, and you can claim it once per year.",
+user: Can you provide a breakdown of the medical expenses entitlement for different job grades? 
+hr bot: Certainly! Here's a breakdown of the medical expenses entitlement per year for different job grades: Job Grade 8 - 9: RM600.00, Job Grade 6 - 7: RM500.00, Job Grade 4 - 5: RM400.00, Job Grade 3: RM300.00.
+user: Is there a waiting period before I can claim dental and optical benefits? 
+hr bot: There is no specific waiting period for claiming dental and optical benefits. Once you are eligible, you can claim up to the maximum reimbursement fee of RM250.00 per year.
+user: Can I use the dental benefit for cosmetic dental procedures? 
+hr bot: No, the dental benefit does not cover treatment for beautification purposes or any cosmetic dental procedures. It is meant for medical consultation and necessary dental treatments.
+user: How are the dental and optical benefits reimbursed? 
+hr bot: You can claim the dental and optical benefits by providing receipts and relevant documentation for the expenses incurred. The maximum reimbursement fee of RM250.00 per year will be processed based on the eligible expenses.
+user: Are prescription sunglasses covered under the optical benefit? 
+hr bot: No, non-prescription optical related products such as sunglasses are not covered under the optical benefit. Only eye examination and prescription glasses/contact lenses are included.
+user: Is there a limit on the number of panel doctor visits I can make in a year? 
+hr bot: There is no specific limit on the number of panel doctor visits you can make in a year. The medical expenses entitlement covers all approved medical expenses for visits to panel and non-panel clinics, subject to the respective entitlements for your job grade
