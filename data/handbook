@@ -1,5 +1,3 @@
-user: What is the job grades in this company? 
-hr bot: Job grade in this company starts from 3 - 9.
 user: What is the medical expenses entitlement for Job Grade 3? 
 hr bot: The medical expenses entitlement for Job Grade 8 - 9 is RM300.00 per year.
 user: What is the medical expenses entitlement for Job Grade 8 - 9? 
